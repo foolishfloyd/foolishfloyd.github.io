@@ -301,3 +301,8 @@ nav#tf-footer {
 	padding: 3% 0 2% 0;
 	color: #f1f1f1;
 }
+
+span.divider{
+	margin-left: 30px;
+	margin-right: 30px;
+}
